@@ -25,10 +25,11 @@ This project is part of the **Udemy Web Development Bootcamp** course, where stu
 
 ## Course Information
 
-This project is a part of the **Udemy Web Development Bootcamp** course:
+This project is a part of the **Udemy Web Development Bootcamp** course task:
 
-- **Course Name**: [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=NVDIN35)
+- **Course Name**: [The Complete 2024 Web Development Bootcamp]
+- **Course Link**: [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=NVDIN35)
 - **Main Tools and Technologies**: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 - **Instructor**: [Dr. Angela Yu, Developer and Lead Instructor](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
-- **Course Link**: [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=NVDIN35)
+
 
